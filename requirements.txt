@@ -1,0 +1,5 @@
+numpy
+visdom
+dominate
+easydict
+argparse

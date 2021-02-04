@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+matlab/
+*/**/__pycache__
+*/*.pyc
+*/**/*.pyc
+*/**/**/*.pyc
+*/**/**/**/*.pyc
+*/**/**/**/**/*.pyc
+*/*.so*
+*/**/*.so*
+*/**/*.dylib*
+*~
+checkpoints/robotcar_2day/*.pth
+checkpoints/robotcar_2day/*.zip
